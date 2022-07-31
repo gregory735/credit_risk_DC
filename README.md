@@ -1,7 +1,7 @@
 credit_risk_kaggle
 ==============================
 
-This project is just a way to me learn how organize DC projects 
+This project is just a way to me learn how organize DC projects. I'll use all raw csv from datas as DB to link those DB with jinja2 files.
 
 Project Organization
 ------------
