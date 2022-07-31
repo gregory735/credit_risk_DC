@@ -2,6 +2,7 @@ credit_risk_kaggle
 ==============================
 
 This project is just a way to me learn how organize DC projects. I'll use all raw csv from datas as DB to link those DB with jinja2 files.
+A base de dados utilizada foi capturada do Kaggle no link: https://www.kaggle.com/datasets/praveengovi/credit-risk-classification-dataset, em <31/07/2022> as 18h:00.
 
 Project Organization
 ------------
