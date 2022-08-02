@@ -1,0 +1,5 @@
+select * 
+        from payment_data as a
+    left join 
+        customer_data as b
+    on a.{{id}} = b.{{id}};
